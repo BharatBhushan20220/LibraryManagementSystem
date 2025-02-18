@@ -32,3 +32,9 @@ Functionality:
 
 3)Admin can borrow and return no books but can delete books.
 
+Unit Testing:
+
+1)JUnit: A widely used framework for writing tests in Java.
+
+2)Mockito: A mocking framework used for creating mock objects, especially useful for testing code that interacts with external systems or dependencies.
+
